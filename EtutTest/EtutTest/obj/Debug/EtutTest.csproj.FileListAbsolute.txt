@@ -1,0 +1,11 @@
+C:\Users\ASUS\Desktop\Software\Project\EtutTest\EtutTest\bin\Debug\EtutTest.exe.config
+C:\Users\ASUS\Desktop\Software\Project\EtutTest\EtutTest\bin\Debug\EtutTest.exe
+C:\Users\ASUS\Desktop\Software\Project\EtutTest\EtutTest\bin\Debug\EtutTest.pdb
+C:\Users\ASUS\Desktop\Software\Project\EtutTest\EtutTest\obj\Debug\EtutTest.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Software\Project\EtutTest\EtutTest\obj\Debug\EtutTest.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\Desktop\Software\Project\EtutTest\EtutTest\obj\Debug\EtutTest.Form1.resources
+C:\Users\ASUS\Desktop\Software\Project\EtutTest\EtutTest\obj\Debug\EtutTest.Properties.Resources.resources
+C:\Users\ASUS\Desktop\Software\Project\EtutTest\EtutTest\obj\Debug\EtutTest.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\Software\Project\EtutTest\EtutTest\obj\Debug\EtutTest.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Software\Project\EtutTest\EtutTest\obj\Debug\EtutTest.exe
+C:\Users\ASUS\Desktop\Software\Project\EtutTest\EtutTest\obj\Debug\EtutTest.pdb
